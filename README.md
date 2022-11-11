@@ -1,3 +1,11 @@
-# Modify this portfolio
+# Time estimates
 
-Make it your own! 
+## Number and name of feature: 1
+
+Estimate of time needed to complete:
+
+Start time:
+
+Finish time:
+
+Actual time needed to complete:

@@ -1,80 +1,85 @@
 body[data-theme="dark"] {  
 
    @import '/src/scss/dark-slider.scss';
+   @import url(https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png);
 
    .slider-tab {
-      background-color: #8C8C8C;
+      background-color: #5f5a5a;
    }
 
    .title-styles {
-      color: white;
+      color: rgb(216, 191, 191);
    }
 
    .header-icon {
-      color: #3C342C;
+      color: #000000;
       opacity: 0.8;
    }
 
    .slider-image {
-      border: 5px solid #8C8C8C;
+      border: 5px solid #7a6969;
    }
 
    .language {
-      background-color: #494949;
+      background-color: #252020;
    }
 
    .link-href {
-      color: white;
+      color: rgb(167, 151, 151);
    }
 
    .project-date {
-      background-color: #918e97;
-      color: white;
+      background-color: #5e507a;
+      color: rgb(44, 28, 28);
    }
 
    header {
-      background-color: #494949;
+      background: url(https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png);
+      background-size: cover;
       h1 {
-         color: white;
+         color: rgb(0, 0, 0);
+      }
+      .title-container{
+         color: #000000;
       }
    }
 
    #about {
-      background-color: #7f7f7f;
+      background-color: #382424;
       h1 span {
-         color: white;
+         color: rgb(122, 95, 95);
       }
       .polaroid span {
-         background:  #6d6d6d;
+         background:  #5a5353;
       }
       .card {
-         background: #6d6d6d;
-         color: white;
+         background: #423939;
+         color: rgb(133, 112, 112);
       }
    }
 
    #portfolio {
-      background: #5b5b5b;
+      background: #645454;
       .section-title {
-         color: white !important;
+         color: rgb(110, 88, 88) !important;
       }
       .foto div {
          background: #6d6d6d;
       }
       .project-title-settings {
-         color: white;
+         color: rgb(105, 22, 22);
       }
    }
 
    #resume {
       filter: brightness(80%);
-      background: #5b5b5b;
+      background: #f1a0a0;
       .section-title {
-         color: white !important;
+         color: rgb(31, 12, 12) !important;
       }
 
       .experience-badge {
-         background: #919191 !important;
+         background: #963434 !important;
          color: white;
       }
 

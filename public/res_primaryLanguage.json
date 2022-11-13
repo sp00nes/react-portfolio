@@ -85,37 +85,34 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Software Developer",
+        "years": "4.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "JavaScript 8/9/10"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "React",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "CSS",
+          "HTML",
+          "MongoDB"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
+        "company": "Harold's Lighting",
+        "title": "Lamp Repair Tech",
         "years": "01.2018 - 09.2019",
         "mainTech": [
-          "Angular 7/8"
+          "lamps"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "Wires",
+          "Metal",
+          "Sockets",
+          "Bulbs",
+          "Electricity"
         ]
       }
     ]
